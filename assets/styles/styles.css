@@ -181,3 +181,72 @@ p {
 }
 
 /* #harun(h6295f4e3d6394d9b) #css ends */
+
+/* #arno(a414511c41e4171ae) #css starts  */
+.abouta414511c41e4171ae .DescriptionHeading {
+    color: #000000;
+    font-size: 55px
+}
+
+.abouta414511c41e4171ae .DescriptionPara {
+    font-size: 18px
+}
+
+.abouta414511c41e4171ae .descriptionImage img{
+    animation: floatingAnimation 3s ease-in-out infinite;
+    height: 600px;
+    width: 500px
+}
+
+.abouta414511c41e4171ae .searchBtn{
+    background-color:black;
+    padding: 15px 25px 15px 25px;
+    color: white
+}
+
+.abouta414511c41e4171ae .form-control,
+.abouta414511c41e4171ae .input-group-append{
+        border-bottom: 1px solid black;
+        border-right: 1px solid black;
+        border-top: none;
+        border-left: 1px solid black
+    }
+.abouta414511c41e4171ae .form-control{
+        margin-top: 19px
+    }  
+.abouta414511c41e4171ae .italic{
+        font-weight: 400
+    }
+.abouta414511c41e4171ae .my-input::placeholder {
+ transform: translateY(-11px)
+        }
+.abouta414511c41e4171ae .ml{
+margin-left: 100px;
+margin-top: 35px
+        }
+.abouta414511c41e4171ae .neomorphic-text {
+display: inline-block;
+padding: 20px;
+background: #f0f0f0;
+border-radius: 10px
+}
+.abouta414511c41e4171ae .startFreeTrail{
+margin-top: 40px
+}
+.abouta414511c41e4171ae input::placeholder {
+    color: black
+  }
+  
+@keyframes floatingAnimation {
+0% {
+transform: translate(0, 0); 
+}
+50% {
+transform: translate(0, 20px); 
+}
+100% {
+transform: translate(0, 0); 
+}
+}
+
+/* #arno(a414511c41e4171ae) #css ends  */

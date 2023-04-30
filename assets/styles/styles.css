@@ -9,12 +9,12 @@
     --error-color: #EA0000;
     --main-background-color : #f8f9fa;
     --light-background-color : #fbfbfb;
-    --default-font : Roboto, sans-serif;
-    --primary-font : Roboto Condensed, sans-serif;
-    --secondary-font : Roboto, sans-serif;
+    --default-font : 'Montserrat', sans-serif;
+    --primary-font : 'Montserrat', sans-serif;
+    --secondary-font : 'Montserrat', sans-serif;
     --default-font-size: 16px;
 }
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 /* Typography Starts here */
 *,
 html,
@@ -144,4 +144,40 @@ p {
     }
   }
 
-/* Typography Ends here */  
+/* Typography Ends here */ 
+
+/* #harun(h6295f4e3d6394d9b) #css starts */
+.headerh6295f4e3d6394d9b .navbar-light{
+    background-color: white
+}
+.headerh6295f4e3d6394d9b .navbar-light .navbar-brand{
+    font-weight: 700
+}
+.headerh6295f4e3d6394d9b .navbar-light .navbar-nav .nav-link{
+    font-weight: 600;
+    color: #000000
+}
+.headerh6295f4e3d6394d9b .dropdown-menu{
+    border: none;
+    box-shadow: none
+}
+.headerh6295f4e3d6394d9b .dropdown-item{
+    font-weight: 500
+}
+.headerh6295f4e3d6394d9b .dropdown-item:active{
+   background-color: #000000;
+   color: white
+}
+.headerh6295f4e3d6394d9b .btn{
+    font-weight: 600;
+    color: #000000;
+    padding-right: 25px
+}
+
+.headerh6295f4e3d6394d9b .btnStyle{
+  border: 1px solid black;
+  padding-right: 30px;
+  padding-left: 30px
+}
+
+/* #harun(h6295f4e3d6394d9b) #css ends */
